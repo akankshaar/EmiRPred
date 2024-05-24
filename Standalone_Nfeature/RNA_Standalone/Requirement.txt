@@ -1,0 +1,9 @@
+1. Pre-requisite
+==========
+In order to run this program user should have Python3, and scikit-learn library.
+
+2. Command line
+================
+In order to know the arguments of any script, please run the following command:
+          -> For RNA based features
+		python3 Nfeature_RNA.py -h
