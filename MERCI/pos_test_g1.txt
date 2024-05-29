@@ -1,0 +1,81 @@
+MOTIF:  A G G G A A gap C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G G A A G C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G G A A G C gap C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G G A A G gap C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G G A A gap G C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G gap G A A G C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A gap G G G A A G C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C C A C C gap C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C C gap A C C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G gap A A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G gap A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G G A A G C gap C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A gap A G G G A A G
+******
+0 positive sequences contain the motif
+
+MOTIF:  C A A A G gap G C
+******
+>E242
+ (sequence 6)
+    start position(s): 7
+    motif(s): CAAAGGC
+1 positive sequences contain the motif
+
+MOTIF:  G G A A C gap G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G C gap G G C G
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G G A gap G C A C
+******
+0 positive sequences contain the motif
+
+
+
+************************************
+
+COVERAGE
+********
+E242 (1 motifs match)
+
+1 sequences covered in total

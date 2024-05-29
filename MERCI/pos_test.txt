@@ -1,0 +1,52 @@
+MOTIF:  A G G G A A G C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G A A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G A A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A C A A A A
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G C A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G G A A G C A
+******
+0 positive sequences contain the motif
+
+MOTIF:  A G G G A A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  C C C A C C C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G C A G C A C
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G G A A G C A
+******
+0 positive sequences contain the motif
+
+MOTIF:  G G G A A G C A C
+******
+0 positive sequences contain the motif
+
+
+
+************************************
+
+COVERAGE
+********
+
+0 sequences covered in total
