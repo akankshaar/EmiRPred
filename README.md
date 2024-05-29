@@ -9,6 +9,9 @@ Keywords: Exosome, miRNA, sub-cellular location, Machine Learning, Deep Learning
 ```
 pip install emirpred
 ```
+```
+import emirpred
+```
 It can also be downloaded from - https://pypi.org/project/emirpred/
 
 ## Standalone
