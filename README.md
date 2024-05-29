@@ -18,8 +18,7 @@ The Standalone version of EmiRPred is written in python3 and following libraries
 - Argparse
 
 
-No additional package/tool is required for model = 1 (default model), however for model = 2, please download blast from https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html
-
+No additional package/tool is required for model = 1 (default model), however for model = 2, please download blast (version - blast: 2.12.0+) from https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html
 
 ## Minimum USAGE
 To know about the available option for the standlone, type the following command:
