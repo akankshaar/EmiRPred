@@ -32,7 +32,7 @@ emirpred -h
 ```
 To run the example, type the following command:
 ```
-emirpred -f example_input.fa -o output
+emirpred -f example_seq.fa -o output
 ```
 Here, -f argument is to enter the input file in Fasta format and -o argument is for giving the path to the output directory. By default, the package uses model (-m) = 1 which employs only ML algorithm (Extra Tree Classifier) to classify the miRNA sequences, which generates a prediction file "classification_ML.csv" in the specified output directory. If model (-m) = 2 is selected, then the hybrid model is employed (ML + MERCI + BLAST) to classify the miRNA sequences, which generates a prediction file "classification_hybrid.csv" in the specified output directory.
 
@@ -58,7 +58,7 @@ For help:
 
 ## Standalone minimum usage
 ```
-python3 emirpred.py -f example_input.fa -o output
+python3 emirpred.py -f example_seq.fa -o output
 ```
 
 ## Arguments description
@@ -86,7 +86,7 @@ emirpred_et_model.pkl           : This file contains the pickled version of mode
 
 emirpred.py                     : Main python program
 
-example_input.fa                : Example file contain nucleotide sequences in FASTA format
+example_seq.fa                  : Example file contain nucleotide sequences in FASTA format
 
 blast_db                        : Database for BLAST search
 
