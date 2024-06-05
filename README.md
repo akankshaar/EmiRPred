@@ -3,7 +3,7 @@ A computational tool for predicting exosomal and non-exosomal miRNA
 ## Introduction
 EmiRPred is a tool for the classifcation of miRNA into exosomal and non-exosomal. It uses similarity-based methods (BLAST and MERCI for motif-search) combined with Extra Tree Classifier built on the best performing compoisition-based features extracted using One hot encoding, Term Frequency - Inverse Document Frequency, and Reverse Complement RNA strand compositions. EmiRPred is also available as a web-server at https://webs.iiitd.edu.in/raghava/emirpred. Please read/cite the content about EmiRPred for complete information including algorithm behind the approach.
 
-Keywords: Exosome, miRNA, sub-cellular location, Machine Learning, Deep Learning,  Biology
+Keywords: Exosome, miRNA, sub-cellular location, Subcellular, Machine Learning, Deep Learning,  Biology
 
 ## Python Package
 ```
